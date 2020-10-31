@@ -1,6 +1,6 @@
 <?php 
 //connect with our database 
-	$conn = mysqli_connect('localhost', 'antoniozah', '5115137a', 'post_note');
+	$conn = mysqli_connect('localhost', 'test', 'test', 'post_note');
 
 	//check our connection 
 	if(!$conn){
